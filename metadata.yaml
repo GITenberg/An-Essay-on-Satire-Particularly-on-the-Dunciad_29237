@@ -1,0 +1,28 @@
+_repo: An-Essay-on-Satire-Particularly-on-the-Dunciad_29237
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harte, Walter
+    birthdate: 1709
+    deathdate: 1774
+    gutenberg_agent_id: '33776'
+    url: http://www.gutenberg.org/2009/agents/33776
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Harte
+description: ''
+gutenberg_issued: '2009-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29237'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pope, Alexander, 1688-1744. Dunciad'
+- !lcsh 'Verse satire, English -- History and criticism'
+- !lcc 'PR'
+title: An Essay on Satire, Particularly on the Dunciad
+url: http://www.gutenberg.org/ebooks/29237
