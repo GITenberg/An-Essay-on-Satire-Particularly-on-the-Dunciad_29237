@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33776
     wikipedia: http://en.wikipedia.org/wiki/Walter_Harte
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29237#An-Essay-on-Satire-Particularly-on-the-Dunciad
 gutenberg_issued: '2009-06-25'
 gutenberg_type: Text
 identifiers:
